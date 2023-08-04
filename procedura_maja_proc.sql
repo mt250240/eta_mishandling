@@ -1,2 +1,3 @@
 select * from table1
-where name = "Maja";
+where name = "Maja"
+and surname = "Todorovic";
