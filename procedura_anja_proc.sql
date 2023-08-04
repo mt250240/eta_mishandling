@@ -1,3 +1,4 @@
 SELECT name, surname 
 FROM table1
-WHERE name="anja"
+WHERE name="Anja"
+AND surname="Bojanic"
